@@ -16,10 +16,11 @@ This repository contains the data engineering pipeline, feature extraction, and 
 
 ## Files
 
-- `workflow_analysis.py` or `workflow_analysis.ipynb`: Main processing code
-- `Appendix.md`: Methodology, detailed data dictionary, and documentation
-- `/images/`: Dashboard snapshots
-- `LICENSE`: Terms of use (MIT or enterprise-specific)
+- `workflow_analysis.ipynb`: Python notebook for data processing and feature engineering
+- `/images/`: Dashboard visualization screenshots
+- `Dissertation-Report-with-front.docx`: Full dissertation report documenting methodology and findings
+- `README.md`: Project overview and instructions
+
 
 ## Power BI Dashboard
 

@@ -34,6 +34,17 @@ https://cf-my.sharepoint.com/personal/konars_cardiff_ac_uk/_layouts/15/onedrive.
 2. Place your Parquet data files in the `/Data` folder (sample data only, no confidential data).
 3. Run the Python script or Jupyter notebook.
 4. Exported results are available in CSV/Parquet and can be visualized using Power BI.
+   
+# Tools & Technologies
 
+- Python 3.x  
+- DuckDB SQL Engine  
+- Pandas DataFrame Library  
+- Parquet File Format  
+- Power BI Dashboard Software  
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![DuckDB](https://img.shields.io/badge/DuckDB-0.9+-yellow)
+![Power BI](https://img.shields.io/badge/Power--BI-Dashboard-brightgreen)
 
 
